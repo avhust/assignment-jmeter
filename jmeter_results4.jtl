@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1703346570087,1679,getUserByName - Success,200,OK,Thread Group - getUserByName 5-1,text,true,,466,165,1,8,https://petstore.swagger.io:443/v2/user/avhust,1677,0,1552
+1703346570087,1678,updateUser - Success,200,OK,Thread Group - updateUser 8-1,text,true,,819,358,1,8,https://petstore.swagger.io:443/v2/user/avhust,531,0,416
+1703346570087,531,updateUser - Success-0,301,Moved Permanently,Thread Group - updateUser 8-1,text,true,,353,187,1,8,http://petstore.swagger.io/v2/user/avhust,531,0,416
+1703346570620,1145,updateUser - Success-1,200,OK,Thread Group - updateUser 8-1,text,true,,466,171,1,8,https://petstore.swagger.io:443/v2/user/avhust,1143,0,1018
+1703346570087,1682,loginUser - Success,200,OK,Thread Group - loginUser 6-1,text,true,,482,191,1,8,https://petstore.swagger.io:443/v2/user/login?username=avhust&password=0,1682,0,1554
+1703346570087,1682,createUsersWithListInput - Success,405,Method Not Allowed,Thread Group - createUsersWithListInput 3-1,text,false,,436,179,1,8,https://petstore.swagger.io:443/v2/user/createWithList,1682,0,1555
+1703346570087,1683,createUsersWithArrayInput - Success,405,Method Not Allowed,Thread Group - createUsersWithArrayInput 2-1,text,false,,436,180,1,8,https://petstore.swagger.io:443/v2/user/createWithArray,1683,0,1556
+1703346570087,1683,logoutUser - Success,200,OK,Thread Group - logoutUser 7-1,text,true,,381,139,1,8,https://petstore.swagger.io:443/v2/user/logout,1683,0,1555
+1703346570087,1684,createUser - Success,405,Method Not Allowed,Thread Group - createUser 1-1,text,false,,436,164,1,8,https://petstore.swagger.io:443/v2/user,1684,0,1558
+1703346570087,1685,deleteUser - Success,200,OK,Thread Group - deleteUser 4-1,text,true,,466,139,1,8,https://petstore.swagger.io:443/v2/user/avhust,1684,0,1558
+1703348527992,1667,createUsersWithArrayInput - Success,405,Method Not Allowed,Thread Group - createUsersWithArrayInput 2-1,text,false,,436,180,1,8,https://petstore.swagger.io:443/v2/user/createWithArray,1667,0,1550
+1703348527992,1674,createUsersWithListInput - Success,405,Method Not Allowed,Thread Group - createUsersWithListInput 3-1,text,false,,436,179,1,8,https://petstore.swagger.io:443/v2/user/createWithList,1674,0,1551
+1703348527993,1675,createUser - Success,405,Method Not Allowed,Thread Group - createUser 1-1,text,false,,436,164,1,8,https://petstore.swagger.io:443/v2/user,1675,0,1552
+1703348527992,1680,getUserByName - Success,200,OK,Thread Group - getUserByName 5-1,text,true,,466,165,1,8,https://petstore.swagger.io:443/v2/user/avhust,1675,0,1551
+1703348527992,1680,logoutUser - Success,200,OK,Thread Group - logoutUser 7-1,text,true,,381,139,1,8,https://petstore.swagger.io:443/v2/user/logout,1680,0,1555
+1703348527993,1680,loginUser - Success,200,OK,Thread Group - loginUser 6-1,text,true,,482,191,1,8,https://petstore.swagger.io:443/v2/user/login?username=avhust&password=0,1678,0,1552
+1703348527992,1680,deleteUser - Success,200,OK,Thread Group - deleteUser 4-1,text,true,,466,139,1,8,https://petstore.swagger.io:443/v2/user/avhust,1674,0,1550
+1703348527992,1686,updateUser - Success,200,OK,Thread Group - updateUser 8-1,text,true,,819,358,1,8,https://petstore.swagger.io:443/v2/user/avhust,526,0,402
+1703348527992,526,updateUser - Success-0,301,Moved Permanently,Thread Group - updateUser 8-1,text,true,,353,187,1,8,http://petstore.swagger.io/v2/user/avhust,526,0,402
+1703348528521,1157,updateUser - Success-1,200,OK,Thread Group - updateUser 8-1,text,true,,466,171,1,8,https://petstore.swagger.io:443/v2/user/avhust,1157,0,1027
